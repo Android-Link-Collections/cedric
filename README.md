@@ -545,7 +545,7 @@ Xenon HD EOL
 
 
 Ports one-time builds
-=====
+======
 
 A11
 =====
@@ -946,7 +946,7 @@ Rom collection
 
 
 Linux
-=====
+======
 * [Telegram chat](https://t.me/noandroidoncedric)
 
 UBports
