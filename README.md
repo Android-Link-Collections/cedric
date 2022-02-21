@@ -1,6 +1,7 @@
 **Moto G5**
 
 Android
+----------------
 
 official A11
 ----------------
@@ -60,6 +61,7 @@ Project Sakura 5.1 vanilla EOL
 ----------------
 
 unofficial A11
+----------------
 AICP 16.1
 * [Telegram changelog](https://t.me/cedriclaboratory/917)
 * [Download](https://github.com/SirRGB/releases/releases/download/202201232345-aicp_cedric_r-16.1-UNOFFICIAL-20220123/aicp_cedric_r-16.1-UNOFFICIAL-20220123.zip)
@@ -212,6 +214,7 @@ Revenge OS 4.1 EOL
 ----------------
 
 official A10
+----------------
 Lineage OS 17.1 Micro G
 * [Download](https://download.lineage.microg.org/cedric/)
 ----------------
@@ -257,6 +260,7 @@ Mint OS 2 Special Edition Gapps EOL
 ----------------
 
 unofficial A10
+----------------
 CrDroid 6.26
 * [Telegram changelog](https://t.me/cedriclaboratory/925)
 * [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220130-cedric-v6.26.zip/download)
@@ -346,6 +350,7 @@ Pixys OS 3.1.2 EOL
 ----------------
 
 official A9
+----------------
 Carbon Rom 7
 * [XDA](https://forum.xda-developers.com/t/9-official-weekly-carbonrom-cr-7-0-cedric.3920600/)
 * [Download](https://get.carbonrom.org/device-cedric.html)
@@ -389,6 +394,7 @@ Viper OS 6.1 EOL
 ----------------
 
 unofficial A9
+----------------
 Lineage OS 16.0
 * [XDA](https://forum.xda-developers.com/t/rom-9-0-unofficial-arm64-lineageos-16-0.3885211/post-84861859)
 * [Download](https://androidfilehost.com/?fid=2188818919693750435)
@@ -401,6 +407,7 @@ Lineage 16.0
 ----------------
 
 official A8.1
+----------------
 Firehound 4.4 EOL
 * [XDA](https://forum.xda-developers.com/t/official-firehound-v4-4-oreo-8-1-cedric-2018-3-17.3753747/)
 * [Download](https://androidfilehost.com/?fid=1395089523397892146)
@@ -408,6 +415,7 @@ Firehound 4.4 EOL
 ----------------
 
 unofficial A8.1
+----------------
 Lineage OS 15.1
 * [XDA](https://forum.xda-developers.com/t/rom-8-1-0-unofficial-arm64-lineageos-15-1.3722188/post-86437037)
 * [Telegram changelog](https://t.me/cedriclaboratory/920)
@@ -426,6 +434,7 @@ Maru OS EOL
 ----------------
 
 unofficial A7.1
+----------------
 Lineage OS 14.1
 * [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973/post-86415151)
 * [Download](https://www.dropbox.com/s/rsi219a07ujxo7s/lineage-14.1-20220212-UNOFFICIAL-cedric.zip?dl=1)
@@ -456,8 +465,9 @@ Xenon HD EOL
 
 
 Ports one-time builds
-
+----------------
 A11
+----------------
 Ancient OS 4
 * [Telegram changelog](https://t.me/cedriclaboratory/764)
 * [Download](https://drive.google.com/drive/folders/1zRSjRhSxBzJN5OiLVOQzt-0WAqbcPrrI)
@@ -555,6 +565,7 @@ Xtended OS 6.0 Gapps
 ----------------
 
 A10
+----------------
 AOSiP Derpfest
 * [Telegram changelog](https://t.me/cedriclaboratory/648)
 * [Download](https://sourceforge.net/projects/jon-builds/files/Android10/DerpFest-10-Community-cedric-20200629-VANILLA.zip/download)
@@ -657,6 +668,7 @@ Resurrection Remix 8.6.4
 ----------------
 
 A9
+----------------
 AOSP Extended v6.7
 * [Telegram changelog](https://t.me/cedriccloudbr/341)
 * [Download](https://drive.google.com/file/d/1-4D-cR_k19tum59we1_Cd44ZD3y163JM/view)
@@ -709,6 +721,7 @@ Cesium OS 3.3
 ----------------
 
 A8.1
+----------------
 Stock gaming
 * [Telegram changelog](https://t.me/cedriccloudbr/342)
 * [Download](https://drive.google.com/file/d/1-1VHtqzx0ntTvUoJ9wxj0tcS3OuWL2LW/view)
@@ -741,6 +754,7 @@ Viper OS
 ----------------
 
 A7.1.2
+----------------
 Ressurection Remix
 * [Telegram changelog](https://t.me/eliteroms/133)
 * [Download](https://drive.google.com/file/d/1A6iYwK5eIruu-wW4UtzJ8yUsf2WfK9yE/view?usp=drivesdk)
@@ -786,6 +800,7 @@ Rom collection
 ----------------
 
 Linux
+----------------
 * [Telegram chat](https://t.me/noandroidoncedric)
 ----------------
 UBports
@@ -805,6 +820,7 @@ LOS 14.1 base rom
 ----------------
 
 Recovery
+----------------
 official TWRP 3.5.2_9
 * [XDA](https://forum.xda-developers.com/t/official-5th-april-2021-twrp-3-5-2_9-0-moto-g5-cedric-32-64bit-roms.3699737/)
 * [Download](https://dl.twrp.me/cedric/)
@@ -833,6 +849,7 @@ suggested by @EliteG5
 ----------------
 
 Kernel
+----------------
 A10
 Optimkernel 358
 not recommened to use
@@ -865,6 +882,7 @@ Radium Beta
 ----------------
 
 Misc
+----------------
 Fpg 1.1
 * [XDA](https://forum.xda-developers.com/t/app-fpg-fingerprint-gestures-customization-on-a11-stock.4354085/)
 * [Telegram changelog](https://t.me/cedriclaboratory/887)
