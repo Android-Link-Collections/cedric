@@ -2,7 +2,7 @@ Android
 ===========
 
 official A11
-----------------
+===========
 
 /e/ OS 0.18 dev
 ----------------
@@ -67,7 +67,7 @@ Project Sakura 5.1 vanilla EOL
 * thanks to @Ayoka_ACR for dl
 
 unofficial A11
-----------------
+===========
 
 AICP 16.1
 ----------------
@@ -246,7 +246,7 @@ Revenge OS 4.1 EOL
 * thanks to @Sparkle
 
 official A10
-----------------
+===========
 
 Lineage OS 17.1 Micro G
 ----------------
@@ -300,7 +300,7 @@ Mint OS 2 Special Edition Gapps EOL
 * thanks to @nift4
 
 unofficial A10
-----------------
+===========
 
 CrDroid 6.26
 ----------------
@@ -407,7 +407,7 @@ Pixys OS 3.1.2 EOL
 * thanks to @kiam001
 
 official A9
-----------------
+===========
 
 Carbon Rom 7
 ----------------
@@ -460,7 +460,7 @@ Viper OS 6.1 EOL
 * [Download](https://sourceforge.net/projects/viper-project/files/cedric/)
 
 unofficial A9
-----------------
+===========
 
 Lineage OS 16.0
 ----------------
@@ -475,7 +475,7 @@ Lineage 16.0
 * thanks to @matiusuario
 
 official A8.1
-----------------
+===========
 
 Firehound 4.4 EOL
 ----------------
@@ -484,7 +484,7 @@ Firehound 4.4 EOL
 * thanks to @matiusuario
 
 unofficial A8.1
-----------------
+===========
 
 Lineage OS 15.1
 ----------------
@@ -506,7 +506,7 @@ Maru OS EOL
 * thanks to @Lukapanio
 
 unofficial A7.1
-----------------
+===========
 
 Lineage OS 14.1
 ----------------
@@ -545,10 +545,10 @@ Xenon HD EOL
 
 
 Ports one-time builds
-----------------
+===========
 
 A11
-----------------
+===========
 
 Ancient OS 4
 ----------------
@@ -665,7 +665,7 @@ Xtended OS 6.0 Gapps
 * thanks to @Felipe
 
 A10
-----------------
+===========
 
 AOSiP Derpfest
 ----------------
@@ -788,7 +788,7 @@ Resurrection Remix 8.6.4
 * thanks to @fabian001254
 
 A9
-----------------
+===========
 
 AOSP Extended v6.7
 ----------------
@@ -851,7 +851,7 @@ Cesium OS 3.3
 * thanks to @Tatsuki_Hashibira
 
 A8.1
-----------------
+===========
 
 Stock gaming
 ----------------
@@ -890,7 +890,7 @@ Viper OS
 * thanks to @eliteG5
 
 A7.1.2
-----------------
+===========
 
 Ressurection Remix
 ----------------
@@ -946,7 +946,7 @@ Rom collection
 
 
 Linux
-----------------
+===========
 * [Telegram chat](https://t.me/noandroidoncedric)
 
 UBports
@@ -969,7 +969,7 @@ LOS 14.1 base rom
 * [Download](https://www.dropbox.com/s/i7lub4mecxv8ky4/lineage-14.1-20220121-UNOFFICIAL-cedric.zip?dl=1)
 
 Recovery
-----------------
+===========
 
 official TWRP 3.5.2_9
 ----------------
@@ -1003,7 +1003,7 @@ TWRP flashable stock
 * suggested by @EliteG5
 
 Kernel
-----------------
+===========
 
 A10
 ----------------
@@ -1044,7 +1044,7 @@ Radium Beta
 * [Telegram/Download](https://t.me/radiumkernel/3251)
 
 Misc
-----------------
+===========
 
 Fpg 1.1
 ----------------
@@ -1054,7 +1054,7 @@ Fpg 1.1
 * thanks to @nift4
 
 Build
-----------------
+===========
 
 A8.1-A10
 ----------------
