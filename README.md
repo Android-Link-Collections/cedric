@@ -29,13 +29,12 @@ Project Kasumi 1.1 PoPiPa Stable
 * thanks to @WindowZ414
 * dl thanks to @Ayoka_ACR
 
-Project Kasumi 1.0 PoPiPa Stable GApps
+Project Kasumi 1.1 PoPiPa Stable GApps
 -----
-* [Telegram changelog](https://t.me/ProjectKasumi/549)
+* [Telegram changelog](https://t.me/ProjectKasumi/624)
 * [Telegram chat](https://t.me/KasumiChat)
 * [Telegram channel](https://t.me/ProjectKasumi)
-* [Download](https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-GApps-cedric-1501/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-GApps-cedric.zip)
-* [Mirror](https://dl.ayokaacr.tk/4:/cedric/Kasumi-1.0-PoPiPa-20220201-OFFICIAL-GApps-cedric.zip)
+* [Download](https://dl.ayokaacr.tk/4:/cedric/Kasumi-1.1-PoPiPa-20220221-OFFICIAL-GApps-cedric.zip)
 * thanks to @WindowZ414
 * dl thanks to @Ayoka_ACR
 
