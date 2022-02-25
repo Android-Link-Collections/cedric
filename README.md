@@ -305,11 +305,11 @@ Mint OS 2 Special Edition Gapps EOL
 unofficial A10
 =====
 
-CrDroid 6.26
+CrDroid 6.27
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/925)
-* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220130-cedric-v6.26.zip/download)
-* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220130-cedric-v6.26-GAPPS.zip/download)
+* [Telegram changelog](https://t.me/cedriclaboratory/939)
+* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27-GAPPS.zip/download)
 * built by [me](http://t.me/SirRGB)
 
 Resurrection Remix 8.7.3
