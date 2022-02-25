@@ -812,6 +812,7 @@ GSP RAM BOOSTER
 -----
 * [Telegram changelog](https://t.me/cedriclabchannel/62)
 * [Download](https://t.me/Future_Verse/8)
+* [Download v2](https://t.me/Future_Verse/9)
 * thanks to @LUIS_MKS
 
 MIUI 11 Elite Edition
