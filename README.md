@@ -19,13 +19,13 @@ Lineage OS 18.1 MicroG
 -----
 * [Download](https://download.lineage.microg.org/cedric/)
 
-Project Kasumi 1.0 PoPiPa Stable
+Project Kasumi 1.1 PoPiPa Stable
 -----
-* [Telegram changelog](https://t.me/ProjectKasumi/499)
+* [Telegram changelog](https://t.me/ProjectKasumi/622)
 * [Telegram chat](https://t.me/KasumiChat)
 * [Telegram channel](https://t.me/ProjectKasumi)
-* [Download](https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.0-PoPiPa-20220124-OFFICIAL-cedric-1700/Kasumi-1.0-PoPiPa-20220124-OFFICIAL-cedric.zip)
-* [Mirror](https://dl.ayokaacr.tk/4:/cedric/Kasumi-1.0-PoPiPa-20220124-OFFICIAL-cedric.zip)
+* [Download](https://github.com/Kasumi-Devices/releases/releases/download/Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric-2215/Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric.zip)
+* [Mirror](https://dl.ayokaacr.tk/4:/cedric/Kasumi-1.1-PoPiPa-20220220-OFFICIAL-cedric.zip)
 * thanks to @WindowZ414
 * dl thanks to @Ayoka_ACR
 
