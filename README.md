@@ -1,6 +1,7 @@
 Android
 ======
 
+
 official A11
 =====
 
@@ -65,6 +66,7 @@ Project Sakura 5.1 vanilla EOL
 * [Telegram Download](https://t.me/ayokaacr_cloud/61)
 * thanks to @nift4
 * thanks to @Ayoka_ACR for dl
+
 
 unofficial A11
 =====
@@ -245,6 +247,7 @@ Revenge OS 4.1 EOL
 * [Download](https://www.androidfilehost.com/?fid=7161016148664790109)
 * thanks to @Sparkle
 
+
 official A10
 =====
 
@@ -298,6 +301,7 @@ Mint OS 2 Special Edition Gapps EOL
 * [Telegram channel](https://t.me/MintOS_builds)
 * [Download](https://github.com/nift4/releases/releases/download/lineage-17.1-20210506-UNOFFICIAL-Mint-v2SE-GApps-cedric-0829/lineage-17.1-20210506-UNOFFICIAL-Mint-v2SE-GApps-cedric.zip)
 * thanks to @nift4
+
 
 unofficial A10
 =====
@@ -406,6 +410,7 @@ Pixys OS 3.1.2 EOL
 * [Download gapps](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/android10/PixysOS-v3.1.2-GAPPS-cedric-UNOFFICIAL-20200819-140548.zip/download)
 * thanks to @kiam001
 
+
 official A9
 =====
 
@@ -474,6 +479,7 @@ Lineage 16.0
 * [Download](https://androidfilehost.com/?w=files&flid=319969)
 * thanks to @matiusuario
 
+
 official A8.1
 =====
 
@@ -482,6 +488,7 @@ Firehound 4.4 EOL
 * [XDA](https://forum.xda-developers.com/t/official-firehound-v4-4-oreo-8-1-cedric-2018-3-17.3753747/)
 * [Download](https://androidfilehost.com/?fid=1395089523397892146)
 * thanks to @matiusuario
+
 
 unofficial A8.1
 =====
@@ -504,6 +511,7 @@ Maru OS EOL
 * [Telegram changelog](https://t.me/cedriclaboratory/541)
 * [Download](https://sourceforge.net/projects/g5maru/files/)
 * thanks to @Lukapanio
+
 
 unofficial A7.1
 =====
@@ -546,6 +554,16 @@ Xenon HD EOL
 
 Ports one-time builds
 ======
+
+A12
+====
+
+Arrow OS 12
+-----
+* [Telegram changelog](https://t.me/cedriclabchannel/63)
+* [Download ROM](https://drive.google.com/file/d/1JJDvz-4OYrq2TZp45X_p73wtYcJxNoE1/view?usp=sharing)
+* [Download fix](https://ava6.androidfilehost.com/dl/GDuPOxIFMKE-hwKr9-7JeQ/1644250642/6006931924117940902/Permissiver_v5.zip)
+
 
 A11
 =====
@@ -663,6 +681,7 @@ Xtended OS 6.0 Gapps
 * [Telegram changelog](https://t.me/cedriccloudbr/320)
 * [Download](https://sourceforge.net/projects/cedricprojects/files/Xtended-V6.0-GAPPS/Xtended-v6.0-Gapps-unofficial.zip/download)
 * thanks to @Felipe
+
 
 A10
 =====
@@ -787,6 +806,7 @@ Resurrection Remix 8.6.4
 * [Download](https://sourceforge.net/projects/cedric-project/files/RR/Q/RROS-Q-8.6.4-20201110-cedric-Unofficial.zip/download)
 * thanks to @fabian001254
 
+
 A9
 =====
 
@@ -857,6 +877,7 @@ Cesium OS 3.3
 * [Download](https://drive.google.com/drive/folders/1-8gqRj05K0qi5vCgwKKWLG7oHaxednA9)
 * thanks to @Tatsuki_Hashibira
 
+
 A8.1
 =====
 
@@ -895,6 +916,7 @@ Viper OS
 * [Telegram changelog](https://t.me/cedriclaboratory/739)
 * [Download](https://drive.google.com/drive/folders/1-1z_h9UuJQ5VCldidnZYVqD2WCCFCwZ3)
 * thanks to @eliteG5
+
 
 A7.1.2
 =====
@@ -975,6 +997,7 @@ Sailfish OS 3.1.0.12
 LOS 14.1 base rom
 * [Download](https://www.dropbox.com/s/i7lub4mecxv8ky4/lineage-14.1-20220121-UNOFFICIAL-cedric.zip?dl=1)
 
+
 Recovery
 =====
 
@@ -1050,6 +1073,7 @@ Radium Beta
 -----
 * [Telegram/Download](https://t.me/radiumkernel/3251)
 
+
 Misc
 =====
 
@@ -1059,6 +1083,7 @@ Fpg 1.1
 * [Telegram changelog](https://t.me/cedriclaboratory/887)
 * [Download](https://github.com/nift4/Fpg/releases/tag/v1.1)
 * thanks to @nift4
+
 
 Build
 =====
