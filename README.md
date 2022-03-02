@@ -78,9 +78,9 @@ built by [me](http://t.me/SirRGB)
 
 Arrow OS 11
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/932)
-* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220217-VANILLA.zip/download)
-* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220217-GAPPS.zip/download)
+* [Telegram changelog](https://t.me/cedriclaboratory/942)
+* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220225-VANILLA.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220225-GAPPS.zip/download)
 built by [me](http://t.me/SirRGB)
 
 Dot OS 5.2.1
