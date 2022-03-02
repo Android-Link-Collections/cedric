@@ -74,14 +74,14 @@ AICP 16.1
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/941)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/AICP/aicp_cedric_r-16.1-UNOFFICIAL-20220222.zip/download)
-built by [me](http://t.me/SirRGB)
+* built by [me](http://t.me/SirRGB)
 
 Arrow OS 11
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/942)
 * [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220225-VANILLA.zip/download)
 * [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Arrow_OS/Arrow-v11.0-cedric-UNOFFICIAL-20220225-GAPPS.zip/download)
-built by [me](http://t.me/SirRGB)
+* built by [me](http://t.me/SirRGB)
 
 Dot OS 5.2.1
 -----
@@ -165,7 +165,7 @@ Halogen OS 11 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/842)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/HalogenOS/XOS_cedric-11-20210705-113400-CEST-UNOFFICIAL.zip/download)
-* built by [me](http://t.me/SirRGB)
+* * built by [me](http://t.me/SirRGB)
 
 Havoc OS 4.6 EOL
 -----
@@ -212,7 +212,7 @@ Project Xtended vXr EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/888)
 * [Download](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/Project_Xtended/Xtended-XR-vX.r-VANILLA-cedric-UNOFFICIAL-20211102.zip/download)
-* built by [me](http://t.me/SirRGB)
+* * built by [me](http://t.me/SirRGB)
 
 Pixel Experience 11 EOL
 -----
@@ -310,7 +310,7 @@ CrDroid 6.27
 * [Telegram changelog](https://t.me/cedriclaboratory/939)
 * [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27.zip/download)
 * [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27-GAPPS.zip/download)
-* built by [me](http://t.me/SirRGB)
+* * built by [me](http://t.me/SirRGB)
 
 Resurrection Remix 8.7.3
 -----
@@ -1019,7 +1019,7 @@ TWRP 3.6.0
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/926)
 * [Download](https://github.com/SirRGB/releases/releases/download/twrp-cedric-01272022-1901/twrp-cedric-01272022-1901.img)
-* built by [me](http://t.me/SirRGB)
+* * built by [me](http://t.me/SirRGB)
 
 firmware for unbricking
 -----
