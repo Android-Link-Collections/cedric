@@ -129,10 +129,11 @@ Pixel Experience 11 Plus
 Project Sakura 5.2
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/922)
+* [Telegram changelog gapps](https://t.me/cedriclaboratory/943)
 * [Download vanilla](https://github.com/kiam001/releases/releases/download/2253-ProjectSakura-5.2-VANILLA-20220125-2228-cedric-UNOFFICIAL/ProjectSakura-5.2-VANILLA-20220125-2228-cedric-UNOFFICIAL.zip)
 * [Download microg](https://github.com/kiam001/releases/releases/download/2150-ProjectSakura-5.2-MICROG-20220125-2125-cedric-UNOFFICIAL/ProjectSakura-5.2-MICROG-20220125-2125-cedric-UNOFFICIAL.zip)
 * [Download gapps core](https://github.com/kiam001/releases/releases/download/2045-ProjectSakura-5.2-GAPPS-Core-20220125-2016-cedric-UNOFFICIAL/ProjectSakura-5.2-GAPPS-Core-20220125-2016-cedric-UNOFFICIAL.zip)
-* [Download gapps basic](https://github.com/kiam001/releases/releases/download/1922-ProjectSakura-5.2-GAPPS-Basic-20220125-1832-cedric-UNOFFICIAL/ProjectSakura-5.2-GAPPS-Basic-20220125-1832-cedric-UNOFFICIAL.zip)
+* [Download gapps basic](https://github.com/kiam001/releases/releases/download/0332-ProjectSakura-5.2-GAPPS-Basic-20220303-0110-cedric-UNOFFICIAL/ProjectSakura-5.2-GAPPS-Basic-20220303-0110-cedric-UNOFFICIAL.zip)
 * thanks to [@kiam001](t.me/kiam001)
 
 Arrow OS 11 EOL
