@@ -625,6 +625,12 @@ Havoc OS 4.4
 * [Download](https://drive.google.com/file/d/1WgCmSGknbDH1q3dYbZo6H_LUAJTgZfd1/view)
 * thanks to [@SouLindoo](t.me/SouLindoo)
 
+MIUI 13
+-----
+* [Telegram changelog](https://t.me/cedriclabchannel/88)
+* [Download](https://t.me/Mks_tutors/2031)
+* thanks to [@TeusMPM](t.me/TeusMPM)
+
 Moto OS 11
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/733)
