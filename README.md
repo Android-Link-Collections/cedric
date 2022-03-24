@@ -772,6 +772,12 @@ Havoc OS 4.9
 * [Telegram changelog](https://t.me/cedriclabchannel/64)
 * [Download](https://drive.google.com/file/d/1TvBSb6D_cNs06Xz3gE7aq-8545PFTEQ4/view)
 
+Limpo v2
+-----
+* [Telegram changelog](https://t.me/cedriclabchannel/87)
+* [Download](https://t.me/Mks_tutors/2017)
+* thanks to [@LUIS_MKS](t.me/LUIS_MKS)
+
 MIUI 12.6
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/853)
