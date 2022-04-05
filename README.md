@@ -902,6 +902,11 @@ Cesium OS 3.3
 A8.1
 =====
 
+GSP Stock
+* [Telegram changelog](https://t.me/cedriclabchannel/90)
+* [Download](https://t.me/Mks_tutors/2194)
+* thanks to [@LUIS_MKS](t.me/LUIS_MKS)
+
 Stock gaming
 -----
 * [Telegram changelog](https://t.me/cedriccloudbr/342)
