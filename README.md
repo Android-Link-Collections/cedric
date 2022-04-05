@@ -849,6 +849,12 @@ GSP 2.0 Spider Edition
 * [Download](https://t.me/cedriclabotesters/843851)
 * thanks to [@LUIS_MKS](t.me/LUIS_MKS)
 
+GSP 3.0 Spider Edition
+-----
+* [Telegram changelog](https://t.me/cedriclabchannel/89)
+* [Download](https://t.me/Mks_tutors/2059)
+* thanks to [@LUIS_MKS](t.me/LUIS_MKS)
+
 GSP RAM BOOSTER
 -----
 * [Telegram changelog](https://t.me/cedriclabchannel/62)
