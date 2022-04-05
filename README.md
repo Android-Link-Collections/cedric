@@ -72,8 +72,8 @@ unofficial A11
 
 AICP 16.1
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/941)
-* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/AICP/aicp_cedric_r-16.1-UNOFFICIAL-20220222.zip/download)
+* [Telegram changelog](https://t.me/cedriclaboratory/945)
+* [Download](https://github.com/SirRGB/releases/releases/download/202203211916-aicp_cedric_r-16.1-UNOFFICIAL-20220321/aicp_cedric_r-16.1-UNOFFICIAL-20220321.zip)
 * built by [me](http://t.me/SirRGB)
 
 Arrow OS 11
