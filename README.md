@@ -485,7 +485,7 @@ Lineage OS 16.0
 Lineage 16.0
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-9-0-unofficial-arm64-lineageos-16-0.3885211/page-30#post-86173393)
-* [Telegram changelog](https://t.me/cedriclaboratory/921)
+* [Telegram changelog](https://t.me/cedriclaboratory/948)
 * [Download](https://androidfilehost.com/?w=files&flid=319969)
 * thanks to [@matiusuario](https://t.me/matiusuario)
 
