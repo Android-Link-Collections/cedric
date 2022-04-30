@@ -306,6 +306,13 @@ Mint OS 2 Special Edition Gapps EOL
 unofficial A10
 =====
 
+AOSP Extended 7.3
+-----
+* [Telegram changelog](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
+* [Download](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
+* [Mirror](https://sourceforge.net/projects/alexs-roms/files/Cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip/download)
+* thanks to @Anthony_EdwardStark
+
 CrDroid 6.27
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/939)
