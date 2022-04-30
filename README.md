@@ -574,6 +574,11 @@ Arrow OS 12
 * [Download ROM](https://drive.google.com/file/d/1JJDvz-4OYrq2TZp45X_p73wtYcJxNoE1/view?usp=sharing)
 * [Download fix](https://ava6.androidfilehost.com/dl/GDuPOxIFMKE-hwKr9-7JeQ/1644250642/6006931924117940902/Permissiver_v5.zip)
 
+Pixel Experience 12 Plus
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/950)
+* [Download](https://drive.google.com/drive/folders/1Wr_U6pc0uTNkACYKabn9CwEcAuaqeD1h?usp=sharing)
+* thanks to @Veeronez
 
 A11
 =====
