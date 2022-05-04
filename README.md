@@ -33,15 +33,6 @@ Project Kasumi 1.1 PoPiPa Stable GApps
 * thanks to @WindowZ414
 * dl thanks to @Ayoka_ACR
 
-Stellar OS S1.1 Bellatrix EOL
------
-* [XDA](https://forum.xda-developers.com/t/rom-official-cedric-11-stellaros-1-0-aquarix-rideintocosmos.4319679/)
-* [Telegram changelog](https://t.me/StellarOSUpdates/64)
-* [Telegram chat](http://t.me/Stellar_OS)
-* [Download vanilla](https://github.com/Stellar-OS/releases/releases/download/StellarOS-1.1-Bellatrix-20210923-OFFICIAL-cedric-2013/StellarOS-1.1-Bellatrix-20210923-OFFICIAL-cedric.zip)
-* [Download gapps](https://github.com/Stellar-OS/releases/releases/download/StellarOS-1.1-Bellatrix-20210923-OFFICIAL-GApps-cedric-2104/StellarOS-1.1-Bellatrix-20210923-OFFICIAL-GApps-cedric.zip)
-* thanks to @nift4
-
 Stellar OS Weeb 1.1 Beru EOL
 -----
 * [Telegram changelog](https://t.me/StellarWeeb/105)
