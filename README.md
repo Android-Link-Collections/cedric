@@ -63,6 +63,12 @@ Project Sakura 5.1 vanilla EOL
 unofficial A11
 =====
 
+AOSiP
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/961)
+* [Download](https://drive.google.com/file/d/1G-du4CNTef35TMtL1JGJHPW3av7W_1yQ/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 BananaDroid
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/962)
