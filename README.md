@@ -102,12 +102,6 @@ Arrow OS 11 EOL
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
 
-Bliss OS 14.1 gapps EOL
------
-* [Telegram changelog](https://t.me/eliteroms/172)
-* [Download](https://drive.google.com/file/d/1-74EJUAJpt9TOcP9irFDEKahbdF0C8X4/view?usp=drivesdk)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
 CrDroid 7.6 EOL
 -----
 * [Telegram changelog](https://t.me/cedriccloudbr/307)
@@ -122,12 +116,6 @@ Dot OS 5.2.1 EOL
 * [Mirror](https://dl.ayokaacr.de/0:/bot-up/dotOS-R-v5.2.1-cedric-UNOFFICIAL-20211125-1643.zip)
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
-
-Elite OS Nezuko 11 EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/845)
-* [Download](https://drive.google.com/file/d/1-0TA5rQRWR8zYwBwcBi1Nr7Ewd1a1dlA/view?usp=drivesdk)
-* thanks to [@EliteG5](https://t.me/EliteG5)
 
 Halogen OS 11 EOL
 -----
@@ -177,13 +165,13 @@ Nezuko OS 1.3 EOL
 -----
 * [Telegram changelog](https://t.me/cedriccloudbr/316)
 * [Download](https://drive.google.com/file/d/1eNMOaNqrWUFs50n_QD9Brlbpzz1cZrrh/view)
+* thanks to [@SouLindoo](https://t.me/SouLindoo)
 
 Nusantara 11 Rawen 3.4 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/918)
 * [Download](https://github.com/kiam001/releases/releases/download/1234-Nusantara_v3.4-11-cedric-23012022-UNOFFICIAL-0851/Nusantara_v3.4-11-cedric-23012022-UNOFFICIAL-0851.zip)
 * thanks to @kiam001
-
 
 Octavi OS 2.5 EOL
 -----
@@ -269,13 +257,6 @@ Lineage OS 17.1 Micro G
 Mokee 100
 -----
 * [Download](https://download.mokeedev.com/cedric.html)
-
-Elite OS Revolution EOL
------
-* [Telegram_en](https://t.me/cedriclaboratory/837)
-* [Telegram_es](https://t.me/cedriccloudbr/326)
-* [Download](https://drive.google.com/file/d/1-2Yd1Ttx6ZjHWimfSnYOD5dDqSRrrp2P/view)
-* thanks to [@EliteG5](https://t.me/EliteG5)
 
 Lineage OS 17.1 EOL
 -----
@@ -369,18 +350,6 @@ Corvus OS 9.0 EOL
 * [Download gapps](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/android10/Corvus_v9.0-EndGame-cedric-Gapps-13092020-Unofficial-1017.zip/download)
 * thanks to [@kiam001](https://t.me/kiam001)
 
-Corvus 9.0 EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/817)
-* [Download](https://drive.google.com/file/d/1--P9nyl12jFmks2Q6tCWTt2JTni6uakk/view)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
-Elite OS Revolution EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/843)
-* [Download](https://drive.google.com/file/d/1-jPwua-C9kykhSYEzhdrF8f3dnFthqFd/view?usp=drivesdk)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
 /e/ OS EOL
 -----
 * [Download](https://androidfilehost.com/?fid=17248734326145730541)
@@ -397,12 +366,6 @@ Extended UI 1.0.1 EOL
 * [Telegram changelog](https://t.me/cedriclaboratory/520)
 * [Download](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/android10/ExtendedUI_1.0.1_cedric-10.0-20200127-1941-UNOFFICIAL.zip/download)
 * thanks to [@kiam001](https://t.me/kiam001)
-
-Lineage Gaming SE EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/812)
-* [Download](https://drive.google.com/file/d/1--58hINI5hCNB48Gvk6W4mXoXwyMrUy2/view)
-* thanks to [@EliteG5](https://t.me/EliteG5)
 
 Lineage OS 17.1 EOL
 -----
@@ -514,12 +477,6 @@ Lineage OS 15.1
 * [Download](https://androidfilehost.com/?w=files&flid=318291)
 * thanks to [@matiusuario](https://t.me/matiusuario)
 
-Elite Experience 8.1 EOL
------
-* [Telegram changelog](https://t.me/eliteroms/150)
-* [Download](https://drive.google.com/file/d/1-ARytaNbkCX1e_sPLks760dqdvROaMxU/view?usp=drivesdk)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
 Maru OS EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/541)
@@ -612,11 +569,17 @@ Arrow OS 11
 * [Download](https://drive.google.com/drive/folders/1ODqVSYDW1ijry4fqO8bKrn5tlPbPyBgd)
 * thanks to [@Veeronez](https://t.me/Veeronez)
 
-Bliss rom 14.1
+BlissROM 14.1
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/788)
 * [Download](https://drive.google.com/drive/folders/18TwqZN_n_uJanVI46vNH6EElWPA4jmBJ)
 * thanks to [@Veeronez](https://t.me/Veeronez)
+
+BlissROM 14.1 gapps EOL
+-----
+* [Telegram changelog](https://t.me/eliteroms/172)
+* [Download](https://drive.google.com/file/d/1-74EJUAJpt9TOcP9irFDEKahbdF0C8X4/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
 
 CAOS
 -----
@@ -646,6 +609,18 @@ DotOS 5.1
 -----
 * [Telegram changelog](https://t.me/eliteroms/187)
 * [Download](https://drive.google.com/file/d/1-0acmv1vcLl-d4wVvVjxydYgmhz0-lcb/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Elite OS beta
+-----
+* [Telegram changelog](https://t.me/eliteroms/24)
+* [Download](https://drive.google.com/file/d/1-3ZfII6zWIka4hKaJztsYmOWlmTkcGuw/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Elite OS Nezuko 11 EOL
+-----
+* [Telegram changelog](https://t.me/eliteroms/247)
+* [Download](https://drive.google.com/file/d/1-0TA5rQRWR8zYwBwcBi1Nr7Ewd1a1dlA/view?usp=drivesdk)
 * thanks to [@EliteG5](https://t.me/EliteG5)
 
 Havoc OS 4.4
@@ -760,6 +735,12 @@ Corvus OS 10
 * [Download](https://drive.google.com/file/d/1STgbed0LyiKJI3AP0tx5ok3ZoV4CiAey/view)
 * thanks to [@SouLindoo](https://t.me/SouLindoo)
 
+Corvus 9.0 EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/817)
+* [Download](https://drive.google.com/file/d/1--P9nyl12jFmks2Q6tCWTt2JTni6uakk/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
 Descendant X
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/713)
@@ -771,6 +752,25 @@ Elite OS 3.2
 * [Telegram changelog](https://t.me/eliteroms/345)
 * [Download](https://drive.google.com/file/d/1-7_igfsctYcjipKa9WClKs1K6GsHymEZ/view?usp=drivesdk)
 * thanks to [Axel](https://t.me/AxelNV)
+
+Elite OS Revolution
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/843)
+* [Download](https://drive.google.com/file/d/1-jPwua-C9kykhSYEzhdrF8f3dnFthqFd/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Elite OS Revolution
+-----
+* [Telegram_en](https://t.me/eliteroms/212)
+* [Telegram_es](https://t.me/cedriccloudbr/326)
+* [Download](https://drive.google.com/file/d/1-2Yd1Ttx6ZjHWimfSnYOD5dDqSRrrp2P/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Elite OS X
+-----
+* [Telegram changelog](https://t.me/eliteroms/106)
+* [Download](https://drive.google.com/folderview?id=1-3OHmna35vSh0Ej-_8w7C9UbXsONdsGG)
+* thanks to [@EliteG5](https://t.me/EliteG5)
 
 /e/ OS
 -----
@@ -795,6 +795,12 @@ Limpo v2
 * [Download](https://t.me/Mks_tutors/2017)
 * thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
 
+Lineage Gaming SE EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/812)
+* [Download](https://drive.google.com/file/d/1--58hINI5hCNB48Gvk6W4mXoXwyMrUy2/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
 MIUI 12.6
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/853)
@@ -807,6 +813,31 @@ MIUI 12
 * [Download](https://drive.google.com/drive/folders/1HBZJyavH-LHXT-oxYH8ImywKyaOdipe6)
 * thanks to [@Veeronez](https://t.me/Veeronez)
 
+Moto Edge + Port
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/779)
+* [Download](https://drive.google.com/file/d/1-0pc4Cgqqf-rW67Au9w8Jx7Wc1Shgdm-/view)
+* thanks to [@EliteG5](https://t.me/EliteG5) and [@Veeronez](https://t.me/Veeronez)
+
+MotoOS Q+ Cedric "Stock"
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/784)
+* [XDA](https://forum.xda-developers.com/t/moto-os-android-10.4262709/)
+* [Download](https://drive.google.com/drive/folders/1x95AT2AtJn1IgCnlPKSIpqdMRdq-o5yN)
+* thanks to [@Veeronez](https://t.me/Veeronez)
+
+Oxygen OS 10.3.5
+-----
+* [Telegram changelog](https://t.me/cedricchat/163106)
+* [Download](https://drive.google.com/file/d/1j71-Bfwr8sQfugE0E6NAI7xUdO78noBL/view)
+* thanks to [@SouLindoo](https://t.me/SouLindoo)
+
+Project Sakura Elite Edition
+-----
+* [Telegram changelog](https://t.me/eliteroms/117)
+* [Download](https://drive.google.com/file/d/1-5DYJHkMtUrNnOD_fbs7NnqriieHrZPd/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
 Samsung Experience
 -----
 * [Telegram changelog](https://t.me/cedricchat/162012)
@@ -818,19 +849,6 @@ StockElite V1.4
 * [Telegram changelog](https://t.me/eliteroms/288)
 * [Download](https://drive.google.com/file/d/1-AbTqykuF9TiH-sNj5z1aiEoU4DRjyfX/view)
 * thanks to [@EliteG5](https://t.me/EliteG5)
-
-Oxygen OS 10.3.5
------
-* [Telegram changelog](https://t.me/cedricchat/163106)
-* [Download](https://drive.google.com/file/d/1j71-Bfwr8sQfugE0E6NAI7xUdO78noBL/view)
-* thanks to [@SouLindoo](https://t.me/SouLindoo)
-
-Moto Edge + Port
------
-* [Telegram changelog](https://t.me/cedriclaboratory/784)
-* [XDA](https://forum.xda-developers.com/t/moto-os-android-10.4262709/)
-* [Download](https://drive.google.com/drive/folders/1x95AT2AtJn1IgCnlPKSIpqdMRdq-o5yN)
-* thanks to [@Veeronez](https://t.me/Veeronez)
 
 Resurrection Remix 8.6.4
 -----
@@ -847,6 +865,12 @@ AOSP Extended v6.7
 * [Telegram changelog](https://t.me/cedriccloudbr/341)
 * [Download](https://drive.google.com/file/d/1-4D-cR_k19tum59we1_Cd44ZD3y163JM/view)
 * thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
+
+Cesium OS 3.3
+-----
+* [Telegram changelog](https://t.me/cedriccloudbr/304)
+* [Download](https://drive.google.com/drive/folders/1-8gqRj05K0qi5vCgwKKWLG7oHaxednA9)
+* thanks to [@Tatsuki_Hashibira](https://t.me/Tatsuki_Hashibira)
 
 Elite OS
 -----
@@ -891,39 +915,15 @@ Komodo OS 3
 * [Download](https://drive.google.com/drive/folders/1-7Yw7i78sa3r_pMkru3EQmmc5adXQKKG)
 * thanks to [@Tatsuki_Hashibira](https://t.me/Tatsuki_Hashibira)
 
-Cesium OS 3.3
------
-* [Telegram changelog](https://t.me/cedriccloudbr/304)
-* [Download](https://drive.google.com/drive/folders/1-8gqRj05K0qi5vCgwKKWLG7oHaxednA9)
-* thanks to [@Tatsuki_Hashibira](https://t.me/Tatsuki_Hashibira)
-
 
 A8.1
 =====
 
-Stock gaming
+Elite Experience 8.1 EOL
 -----
-* [Telegram changelog](https://t.me/cedriccloudbr/342)
-* [Download](https://drive.google.com/file/d/1-1VHtqzx0ntTvUoJ9wxj0tcS3OuWL2LW/view)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-Stock gaming v2
------
-* [Telegram changelog](https://t.me/cedriccloudbr/345)
-* [Download](https://drive.google.com/file/d/1--zF1IfFls5SkjdGnMsvEHRpMxzoXJv8/view)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-Stock gaming v3 MAX
------
-* [Telegram changelog](https://t.me/cedriccloudbr/346)
-* [Download](https://drive.google.com/file/d/1-ZOl1AFjnw4IdtYfhpuC_LwkCDVLfge0/view?usp=drivesdk)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-Stock gaming v4 final
------
-* [Telegram changelog](https://t.me/cedriccloudbr/349)
-* [Download](https://drive.google.com/file/d/1-19wO8gKD45IP9eHNa0CAoQ5HEwzDtoM/view?usp=drivesdk)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
+* [Telegram changelog](https://t.me/eliteroms/150)
+* [Download](https://drive.google.com/file/d/1-ARytaNbkCX1e_sPLks760dqdvROaMxU/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
 
 Stock lite
 -----
@@ -941,41 +941,53 @@ Viper OS
 A7.1.2
 =====
 
-Ressurection Remix
+AICP Elite Edition
 -----
-* [Telegram changelog](https://t.me/eliteroms/133)
-* [Download](https://drive.google.com/file/d/1A6iYwK5eIruu-wW4UtzJ8yUsf2WfK9yE/view?usp=drivesdk)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
-Elite OS
------
-* [Telegram changelog](https://t.me/cedriclaboratory/780)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
-Kang OS
------
-* [Telegram changelog](https://t.me/cedriclaboratory/762)
-* thanks to [@EliteG5](https://t.me/EliteG5)
-
-Dirty Unicorns
------
-* [Telegram changelog](https://t.me/cedriclaboratory/749)
+* [Telegram changelog](https://t.me/eliteroms/17)
+* [Download](https://drive.google.com/file/d/13bJPh05J-6FOY_r663TpRH6fqai7qKXO/view?usp=drivesdk)
 * thanks to [@EliteG5](https://t.me/EliteG5)
 
 Atomic OS
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/708)
+* [Download](https://drive.google.com/file/d/1-3irJsA4rI1iotS4Qwk8YQ1NcWvcpTQY/view)
 * thanks to [@EliteG5](https://t.me/EliteG5)
 
 Colt OS
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/702)
+* [Download](https://drive.google.com/file/d/1-GntyBRljMRCI-Ix2cwYxMN8bg1y_PH_/view?usp=drivesdk)
 * thanks to [@EliteG5](https://t.me/EliteG5)
 
-Moto OS Stock lite
+DotOS Elite Edition
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/681)
-* thanks to [@Veeronez](https://t.me/Veeronez)
+* [Telegram changelog](https://t.me/eliteroms/128)
+* [Download](https://drive.google.com/file/d/10GX265xyG_odufQ985GUYhjSnZTGcNN2/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+SlimROMs
+-----
+* [Telegram changelog](https://t.me/eliteroms/92)
+* [Download](https://drive.google.com/file/d/1-2opc2Z6hhKwbmlgMC2-MYwgCBO8FZf7/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Resurrection Remix
+-----
+* [Telegram changelog](https://t.me/eliteroms/133)
+* [Download](https://drive.google.com/file/d/1A6iYwK5eIruu-wW4UtzJ8yUsf2WfK9yE/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+Vanir Elite Edition
+-----
+* [Telegram changelog](https://t.me/eliteroms/18)
+* [Download](https://drive.google.com/file/d/1-3jiksts-FmKCOITsPI9vGMQIr0IhZAV/view?usp=drivesdk)
+* thanks to [@EliteG5](https://t.me/EliteG5)
+
+XOSP Elite Edition
+-----
+* [Telegram changelog](https://t.me/eliteroms/21)
+* [Download](https://drive.google.com/file/d/1-CCGkn54j6grWDfq12xcKDld3_UlsHY6/view)
+* thanks to [@EliteG5](https://t.me/EliteG5)
 
 
 Rom collection
