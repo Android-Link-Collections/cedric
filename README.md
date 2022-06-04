@@ -111,7 +111,6 @@ CrDroid 7.6 EOL
 Dot OS 5.2.1 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/895)
-* [Download](https://github.com/kiam001/releases/releases/download/0559-dotOS-R-v5.2.1-cedric-UNOFFICIAL-20211125-1643/dotOS-R-v5.2.1-cedric-UNOFFICIAL-20211125-1643.zip)
 * [Telegram Download](https://t.me/ayokaacr_cloud/135)
 * [Mirror](https://dl.ayokaacr.de/0:/bot-up/dotOS-R-v5.2.1-cedric-UNOFFICIAL-20211125-1643.zip)
 * thanks to [@kiam001](https://t.me/kiam001)
@@ -167,12 +166,6 @@ Nezuko OS 1.3 EOL
 * [Download](https://drive.google.com/file/d/1eNMOaNqrWUFs50n_QD9Brlbpzz1cZrrh/view)
 * thanks to [@SouLindoo](https://t.me/SouLindoo)
 
-Nusantara 11 Rawen 3.4 EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/918)
-* [Download](https://github.com/kiam001/releases/releases/download/1234-Nusantara_v3.4-11-cedric-23012022-UNOFFICIAL-0851/Nusantara_v3.4-11-cedric-23012022-UNOFFICIAL-0851.zip)
-* thanks to @kiam001
-
 Octavi OS 2.5 EOL
 -----
 * [Telegram changelog](https://t.me/cedriccloudbr/318)
@@ -193,21 +186,6 @@ Pixel Experience 11 Plus EOL
 * [Mirror](https://sourceforge.net/projects/alexs-roms/files/Cedric/A11/PixelExperience_Plus_cedric-11.0-20220208-0325-UNOFFICIAL.zip/download)
 * thanks to @Anthony_EdwardStark
 
-Project Fluid 1.5 EOL
------
-* [Telegram changelog](https://t.me/kiam001_builds/2950)
-* [Download](https://github.com/kiam001/releases/releases/download/Fluid-1.5-Rum-UNOFFICIAL-cedric-20210523-gapped-2020/Fluid-1.5-Rum-UNOFFICIAL-cedric-20210523-gapped.zip)
-* thanks to [@kiam001](https://t.me/kiam001)
-
-Project Sakura 5.2 EOL
------
-* [Telegram changelog](https://t.me/cedriclaboratory/922)
-* [Download vanilla](https://github.com/kiam001/releases/releases/download/2253-ProjectSakura-5.2-VANILLA-20220125-2228-cedric-UNOFFICIAL/ProjectSakura-5.2-VANILLA-20220125-2228-cedric-UNOFFICIAL.zip)
-* [Download microg](https://github.com/kiam001/releases/releases/download/2150-ProjectSakura-5.2-MICROG-20220125-2125-cedric-UNOFFICIAL/ProjectSakura-5.2-MICROG-20220125-2125-cedric-UNOFFICIAL.zip)
-* [Download gapps core](https://github.com/kiam001/releases/releases/download/2045-ProjectSakura-5.2-GAPPS-Core-20220125-2016-cedric-UNOFFICIAL/ProjectSakura-5.2-GAPPS-Core-20220125-2016-cedric-UNOFFICIAL.zip)
-* [Download gapps basic](https://github.com/kiam001/releases/releases/download/1922-ProjectSakura-5.2-GAPPS-Basic-20220125-1832-cedric-UNOFFICIAL/ProjectSakura-5.2-GAPPS-Basic-20220125-1832-cedric-UNOFFICIAL.zi>
-* thanks to @kiam001
-
 Project Xtended vXr EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/888)
@@ -218,7 +196,6 @@ Pixel Experience 11 EOL
 -----
 * [Telegram channel](https://t.me/kiam001_builds)
 * [Telegram changelog](https://t.me/cedriclaboratory/833)
-* [Download](https://github.com/kiam001/releases/releases/download/PixelExperience_cedric-11.0-20210615-2257-UNOFFICIAL-0246/PixelExperience_cedric-11.0-20210615-2257-UNOFFICIAL.zip)
 * [Telegram Download](https://t.me/ayokaacr_cloud/9)
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
@@ -227,7 +204,6 @@ Pixel Experience 11 Plus EOL
 -----
 * [Telegram channel](https://t.me/kiam001_builds)
 * [Telegram changelog](https://t.me/cedriclaboratory/833)
-* [Download](https://github.com/kiam001/releases/releases/download/PixelExperience_Plus_cedric-11.0-20210616-2228-UNOFFICIAL-0858/PixelExperience_Plus_cedric-11.0-20210616-2228-UNOFFICIAL.zip)
 * [Telegram Download](https://t.me/ayokaacr_cloud/18)
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
@@ -997,9 +973,6 @@ Rom collection
 * thanks to [@kiam001](https://t.me/kiam001)
 
 * [Download](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/)
-* thanks to [@kiam001](https://t.me/kiam001)
-
-* [Download](https://github.com/kiam001/releases/releases)
 * thanks to [@kiam001](https://t.me/kiam001)
 
 * [Download](https://androidfilehost.com/?w=search&s=Cedric&type=files)
