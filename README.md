@@ -532,8 +532,8 @@ unofficial A7.1.2
 
 Lineage OS 14.1
 -----
-* [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973)
-* [Download](https://www.dropbox.com/s/pxmmsg4wsy6yeoc/lineage-14.1-20220411-UNOFFICIAL-cedric.zip?dl=1)
+* [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973/page-72#post-86893431)
+* [Download](https://www.dropbox.com/s/15ni0icuoc9cnka)
 
 Lineage OS 14.1
 -----
@@ -1064,7 +1064,7 @@ Sailfish OS 3.1.0.12
 * [Download](https://drive.google.com/file/d/1MSFkJWmVqy-QwGEvSSnklSah2QXWW-Zt/view)
 
 LOS 14.1 base rom
-* [Download](https://www.dropbox.com/s/pxmmsg4wsy6yeoc/lineage-14.1-20220411-UNOFFICIAL-cedric.zip?dl=1)
+* [Download](https://www.dropbox.com/s/pxmmsg4wsy6yeoc)
 
 
 Recovery
