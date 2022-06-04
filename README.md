@@ -778,24 +778,6 @@ Elite OS 3.2
 * [Download](https://drive.google.com/drive/folders/1o92NC2N5ZlO1QbaU6jOOkAxGGNDdDygP)
 * thanks to [@Veeronez](https://t.me/Veeronez)
 
-GSP CEDRIFORCE - UTIMATE
------
-* [Telegram changelog](https://t.me/cedriclabchannel/46)
-* [Download](https://t.me/cedriclabotesters/840759)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-GSP EXPERIENCE - UTIMATE
------
-* [Telegram changelog](https://t.me/cedriclabchannel/49)
-* [Download](https://t.me/cedriclabotesters/842854)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-GSP EDITION 1.0 UNOFFICIAL
------
-* [Telegram changelog](https://t.me/cedriclabchannel/27)
-* [Download](https://drive.google.com/file/d/1-bp-7L1uDzNS59lGwmkpT35mw8BvJ7aC/view?usp=drivesdk)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
 Havoc OS 4.9
 -----
 * [Telegram changelog](https://t.me/cedriclabchannel/64)
@@ -873,31 +855,6 @@ Elite OS
 * [Download](https://drive.google.com/drive/folders/1-2PT8YJILopPqJXrYV4W7oEg44pU74c6)
 * thanks to @eliteG5
 
-GSP 1.0 Spider Edition
------
-* [Telegram changelog](https://t.me/cedriclabchannel/50)
-* [Download](https://t.me/cedriclabotesters/843106)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-GSP 2.0 Spider Edition
------
-* [Telegram changelog](https://t.me/cedriclabotesters/843855)
-* [Download](https://t.me/cedriclabotesters/843851)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
-GSP 3.0 Spider Edition
------
-* [Telegram changelog](https://t.me/cedriclabchannel/89)
-* [Download](https://t.me/Mks_tutors/2059)
-* thanks to [@LUIS_MKS](t.me/LUIS_MKS)
-
-GSP RAM BOOSTER
------
-* [Telegram changelog](https://t.me/cedriclabchannel/62)
-* [Download](https://t.me/Future_Verse/8)
-* [Download v2](https://t.me/Future_Verse/9)
-* thanks to [@LUIS_MKS](https://t.me/LUIS_MKS)
-
 MIUI 11 Elite Edition
 -----
 * [Telegram changelog](https://t.me/eliteroms/135)
@@ -943,11 +900,6 @@ Cesium OS 3.3
 
 A8.1
 =====
-
-GSP Stock
-* [Telegram changelog](https://t.me/cedriclabchannel/90)
-* [Download](https://t.me/Mks_tutors/2194)
-* thanks to [@LUIS_MKS](t.me/LUIS_MKS)
 
 Stock gaming
 -----
