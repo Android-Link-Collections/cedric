@@ -63,6 +63,12 @@ Project Sakura 5.1 vanilla EOL
 unofficial A11
 =====
 
+BananaDroid
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/962)
+* [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 AICP 16.1 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/945)
