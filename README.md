@@ -75,6 +75,12 @@ BananaDroid
 * [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
+Nusantara 3.4
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/959)
+* [Download](https://drive.google.com/file/d/1TGV2tj8UPf5qjcXk6Kmnjuh7N5XGJWea/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 AICP 16.1 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/945)
