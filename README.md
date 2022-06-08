@@ -75,6 +75,12 @@ BananaDroid
 * [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
+ExthmUI
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/963)
+* [Download](https://drive.google.com/file/d/1AvhLfq1or5PEEzSFx-hzPlbHn4K0NaVx/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 Nusantara 3.4
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/959)
