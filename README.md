@@ -22,21 +22,8 @@ Lineage OS 18.1 MicroG
 Project Kasumi 1.2 PoPiPa
 -----
 * [Discord](https://discord.gg/FRYUFtWDc6)
-* [Download](https://dl.ayokaacr.workers.dev/4:/cedric/Kasumi-1.2-PoPiPa-20220524-OFFICIAL-cedric.zip)
-* * thanks to [@BeruShinsetsu](https://t.me/BeruShinsetsu)
-* dl thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR)
-
-Project Kasumi 1.2 PoPiPa Stable GApps
------
-* [Discord](https://discord.gg/FRYUFtWDc6)
-* [Download](https://dl.ayokaacr.workers.dev/4:/cedric/Kasumi-1.2-PoPiPa-20220524-OFFICIAL-AuroraOSS-cedric.zip)
-* thanks to [@BeruShinsetsu](https://t.me/BeruShinsetsu)
-* dl thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR)
-
-Project Kasumi 1.2 PoPiPa Stable GApps
------
-* [Discord](https://discord.gg/FRYUFtWDc6)
-* [Download](https://dl.ayokaacr.workers.dev/4:/cedric/Kasumi-1.2-PoPiPa-20220524-OFFICIAL-GApps-cedric.zip)
+* [Telegram changelog](https://t.me/cedriclaboratory/967)
+* [Download](https://dl.ayokaacr.net/4:/cedric/)
 * thanks to [@BeruShinsetsu](https://t.me/BeruShinsetsu)
 * dl thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR)
 
