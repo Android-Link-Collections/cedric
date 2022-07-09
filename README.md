@@ -77,6 +77,12 @@ ExthmUI
 * [Download](https://drive.google.com/file/d/1AvhLfq1or5PEEzSFx-hzPlbHn4K0NaVx/view)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
+Havoc OS 4.16
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/964)
+* [Download](https://drive.google.com/uc?id=1Gd8Iw0PHU17kmsK3dj0Zveoxqby0jwTN&export=download)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 Magnus OS 1.1
 -----
 * [Telegram changelog](https://t.me/cedricchat/204553)
