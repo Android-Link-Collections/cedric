@@ -68,6 +68,12 @@ ExthmUI
 * [Download](https://drive.google.com/file/d/1AvhLfq1or5PEEzSFx-hzPlbHn4K0NaVx/view)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
+Magnus OS 1.1
+-----
+* [Telegram changelog](https://t.me/cedricchat/204553)
+* [Download](https://sourceforge.net/projects/magnusos/files/cedric/MagnusOS-1.1-20220625-UNOFFICIAL-cedric.zip/download)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 Nusantara 3.4
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/959)
