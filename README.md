@@ -281,6 +281,12 @@ CrDroid 6.27
 * [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27-GAPPS.zip/download)
 * built by [me](https://t.me/SirRGB)
 
+Lineage OS 17.1
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/966)
+* [Download](https://sourceforge.net/projects/giovany-cringe/files/Roms/cedric/lineage-17.1-20220701-UNOFFICIAL-cedric.zip/download)
+* thanks to @GiovanyCringe
+
 Resurrection Remix 8.7.3
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/934)
