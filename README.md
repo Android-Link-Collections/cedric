@@ -62,6 +62,15 @@ BananaDroid
 * [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
+crDroid 7.19
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/965)
+* [Download](https://github.com/SirRGB/releases/releases/download/202206192345-crDroidAndroid-11.0-20220619-cedric-v7.19/crDroidAndroid-11.0-20220619-cedric-v7.19.zip)
+* [Mirror](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-11.0-20220619-cedric-v7.19.zip/download)
+* [Mirror2](https://rem.rehan23.workers.dev/0:/crDroidAndroid-11.0-20220619-cedric-v7.19.zip)
+* built by me
+* thanks to @Megh for the Mirror
+
 ExthmUI
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/963)
