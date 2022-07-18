@@ -19,10 +19,10 @@ Lineage OS 18.1 MicroG
 -----
 * [Download](https://download.lineage.microg.org/cedric/)
 
-Project Kasumi 1.2 PoPiPa
+Project Kasumi 1.3 PoPiPa
 -----
 * [Discord](https://discord.gg/FRYUFtWDc6)
-* [Telegram changelog](https://t.me/cedriclaboratory/967)
+* [Telegram changelog](https://t.me/cedriclaboratory/972)
 * [Download](https://dl.ayokaacr.net/4:/cedric/)
 * thanks to [@BeruShinsetsu](https://t.me/BeruShinsetsu)
 * dl thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR)
