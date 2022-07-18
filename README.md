@@ -5,7 +5,7 @@ Android
 official A11
 =====
 
-/e/ OS 0.23 beta
+/e/ OS 1.1
 -----
 * [Download](https://images.ecloud.global/dev/cedric/)
 
