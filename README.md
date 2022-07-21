@@ -1027,7 +1027,7 @@ Sailfish OS 3.1.0.12
 * [Download](https://drive.google.com/file/d/1MSFkJWmVqy-QwGEvSSnklSah2QXWW-Zt/view)
 
 LOS 14.1 base rom
-* [Download](https://www.dropbox.com/s/pxmmsg4wsy6yeoc)
+* [Download](https://github.com/Android-Link-Collections/cedric#lineage-os-141)
 
 
 Recovery
