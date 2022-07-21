@@ -304,6 +304,12 @@ CrDroid 6.27
 
 Lineage OS 17.1
 -----
+* [Telegram changelog](https://t.me/cedriclaboratory/973)
+* [Download](https://androidfilehost.com/?w=files&flid=335304)
+* thanks to [@matiusuario](https://t.me/matiusuario)
+
+Lineage OS 17.1
+-----
 * [Telegram changelog](https://t.me/cedriclaboratory/966)
 * [Download](https://sourceforge.net/projects/giovany-cringe/files/Roms/cedric/lineage-17.1-20220701-UNOFFICIAL-cedric.zip/download)
 * thanks to @GiovanyCringe
