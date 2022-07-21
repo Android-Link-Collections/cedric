@@ -491,7 +491,7 @@ Lineage OS 14.1
 Lineage OS 14.1
 -----
 * [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973/page-72#post-86831637)
-* [Telegram changelog](https://t.me/cedriclaboratory/952)
+* [Telegram changelog](https://t.me/cedriclaboratory/969)
 * [Download](https://androidfilehost.com/?w=files&flid=334077)
 * thanks to @matiusuario
 
