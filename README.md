@@ -469,7 +469,7 @@ unofficial A8.1
 Lineage OS 15.1
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-8-1-0-unofficial-arm64-lineageos-15-1.3722188/post-86966849)
-* [Telegram changelog](https://t.me/cedriclaboratory/957)
+* [Telegram changelog](https://t.me/cedriclaboratory/970)
 * [Download](https://androidfilehost.com/?w=files&flid=318291)
 * thanks to [@matiusuario](https://t.me/matiusuario)
 
