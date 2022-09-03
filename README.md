@@ -50,18 +50,6 @@ Project Sakura 5.1 vanilla EOL
 unofficial A11
 =====
 
-AOSiP
------
-* [Telegram changelog](https://t.me/cedriclaboratory/961)
-* [Download](https://drive.google.com/file/d/1G-du4CNTef35TMtL1JGJHPW3av7W_1yQ/view)
-* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
-
-BananaDroid
------
-* [Telegram changelog](https://t.me/cedriclaboratory/962)
-* [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
-* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
-
 crDroid 7.19
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/965)
@@ -70,12 +58,6 @@ crDroid 7.19
 * [Mirror2](https://rem.rehan23.workers.dev/0:/crDroidAndroid-11.0-20220619-cedric-v7.19.zip)
 * built by me
 * thanks to @Megh for the Mirror
-
-ExthmUI
------
-* [Telegram changelog](https://t.me/cedriclaboratory/963)
-* [Download](https://drive.google.com/file/d/1AvhLfq1or5PEEzSFx-hzPlbHn4K0NaVx/view)
-* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
 Havoc OS 4.16
 -----
@@ -89,17 +71,17 @@ Magnus OS 1.1
 * [Download](https://sourceforge.net/projects/magnusos/files/cedric/MagnusOS-1.1-20220625-UNOFFICIAL-cedric.zip/download)
 * thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
-Nusantara 3.4
------
-* [Telegram changelog](https://t.me/cedriclaboratory/959)
-* [Download](https://drive.google.com/file/d/1TGV2tj8UPf5qjcXk6Kmnjuh7N5XGJWea/view)
-* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
-
 AICP 16.1 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/945)
 * [Download](https://github.com/SirRGB/releases/releases/download/202203211916-aicp_cedric_r-16.1-UNOFFICIAL-20220321/aicp_cedric_r-16.1-UNOFFICIAL-20220321.zip)
 * built by [me](https://t.me/SirRGB)
+
+AOSiP EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/961)
+* [Download](https://drive.google.com/file/d/1G-du4CNTef35TMtL1JGJHPW3av7W_1yQ/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
 Arrow OS 11
 -----
@@ -116,6 +98,12 @@ Arrow OS 11 EOL
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
 
+BananaDroid EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/962)
+* [Download](https://drive.google.com/file/d/1sUr0vg7AddMA68z1oFHPUJ8Dq-9mCGgR/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
+
 CrDroid 7.6 EOL
 -----
 * [Telegram changelog](https://t.me/cedriccloudbr/307)
@@ -129,6 +117,12 @@ Dot OS 5.2.1 EOL
 * [Mirror](https://dl.ayokaacr.de/0:/bot-up/dotOS-R-v5.2.1-cedric-UNOFFICIAL-20211125-1643.zip)
 * thanks to [@kiam001](https://t.me/kiam001)
 * thanks to [@Ayoka_ACR](https://t.me/Ayoka_ACR) for dl
+
+ExthmUI EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/963)
+* [Download](https://drive.google.com/file/d/1AvhLfq1or5PEEzSFx-hzPlbHn4K0NaVx/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
 Halogen OS 11 EOL
 -----
@@ -179,6 +173,12 @@ Nezuko OS 1.3 EOL
 * [Telegram changelog](https://t.me/cedriccloudbr/316)
 * [Download](https://drive.google.com/file/d/1eNMOaNqrWUFs50n_QD9Brlbpzz1cZrrh/view)
 * thanks to [@SouLindoo](https://t.me/SouLindoo)
+
+Nusantara 3.4 EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/959)
+* [Download](https://drive.google.com/file/d/1TGV2tj8UPf5qjcXk6Kmnjuh7N5XGJWea/view)
+* thanks to [@GiovanYCringe](https://t.me/GiovanYCringe)
 
 Octavi OS 2.5 EOL
 -----
@@ -288,20 +288,6 @@ Mint OS 2 Special Edition Gapps EOL
 unofficial A10
 =====
 
-AOSP Extended 7.3
------
-* [Telegram changelog](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
-* [Download](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
-* [Mirror](https://sourceforge.net/projects/alexs-roms/files/Cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip/download)
-* thanks to @Anthony_EdwardStark
-
-CrDroid 6.27
------
-* [Telegram changelog](https://t.me/cedriclaboratory/939)
-* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27.zip/download)
-* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27-GAPPS.zip/download)
-* built by [me](https://t.me/SirRGB)
-
 Lineage OS 17.1
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/973)
@@ -339,6 +325,13 @@ AOSP EOL
 * [Download](https://sourceforge.net/projects/mvaisakhbuilds/files/AOSP/)
 * thanks to [@mvaisakh](https://t.me/mvaisakh)
 
+AOSP Extended 7.3 EOL
+-----
+* [Telegram changelog](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
+* [Download](https://cloud.alex-dev.me/0:/cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip)
+* [Mirror](https://sourceforge.net/projects/alexs-roms/files/Cedric/A10/AospExtended-v7.3-cedric-20220409-1857-UNOFFICIAL.zip/download)
+* thanks to @Anthony_EdwardStark
+
 Bootleggers 5.1 EOL
 -----
 * [Telegram changelog](https://t.me/cedriclaboratory/669)
@@ -351,6 +344,13 @@ Corvus OS 9.0 EOL
 * [Download vanilla](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/android10/Corvus_v9.0-EndGame-cedric-13092020-Unofficial-0859.zip/download)
 * [Download gapps](https://sourceforge.net/projects/kiam001-build-roms/files/Device%20Cedric%20%28Moto%20G5%29/android10/Corvus_v9.0-EndGame-cedric-Gapps-13092020-Unofficial-1017.zip/download)
 * thanks to [@kiam001](https://t.me/kiam001)
+
+CrDroid 6.27 EOL
+-----
+* [Telegram changelog](https://t.me/cedriclaboratory/939)
+* [Download vanilla](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-10.0-20220220-cedric-v6.27-GAPPS.zip/download)
+* built by [me](https://t.me/SirRGB)
 
 /e/ OS EOL
 -----
@@ -472,7 +472,7 @@ Firehound 4.4 EOL
 unofficial A8.1
 =====
 
-Lineage OS 15.1
+Lineage OS 15.1 EOL
 -----
 * [XDA](https://forum.xda-developers.com/t/rom-8-1-0-unofficial-arm64-lineageos-15-1.3722188/post-86966849)
 * [Telegram changelog](https://t.me/cedriclaboratory/970)
