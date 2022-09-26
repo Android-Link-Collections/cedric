@@ -288,7 +288,8 @@ unofficial A10
 
 Lineage OS 17.1
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/973)
+* [XDA]̣̣̣(https://forum.xda-developers.com/t/rom-10-0-unofficial-arm64-lineageos-17-1.4019593/page-25#post-87300087)
+* [Telegram changelog](https://t.me/cedriclaboratory/976)
 * [Download](https://androidfilehost.com/?w=files&flid=335304)
 * thanks to [@matiusuario](https://t.me/matiusuario)
 
