@@ -491,8 +491,8 @@ unofficial A7.1.2
 
 Lineage OS 14.1
 -----
-* [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973/post-87130003)
-* [Download](https://www.dropbox.com/s/xviv9thgzsd2h2i/lineage-14.1-20220709-UNOFFICIAL-cedric.zip?dl=1)
+* [XDA](https://forum.xda-developers.com/t/7-1-x-lineageos-14-1-for-moto-g5-cedric-unofficial.3611973/page-73#post-87452109)
+* [Download](https://www.dropbox.com/s/zq6vdpwjhbdley0/lineage-14.1-20220914-UNOFFICIAL-cedric.zip?dl=1)
 
 Lineage OS 14.1
 -----
