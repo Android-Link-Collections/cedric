@@ -50,14 +50,12 @@ Project Sakura 5.1 vanilla EOL
 unofficial A11
 =====
 
-crDroid 7.19
+crDroid 7.21
 -----
-* [Telegram changelog](https://t.me/cedriclaboratory/965)
-* [Download](https://github.com/SirRGB/releases/releases/download/202206192345-crDroidAndroid-11.0-20220619-cedric-v7.19/crDroidAndroid-11.0-20220619-cedric-v7.19.zip)
-* [Mirror](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-11.0-20220619-cedric-v7.19.zip/download)
-* [Mirror2](https://rem.rehan23.workers.dev/0:/crDroidAndroid-11.0-20220619-cedric-v7.19.zip)
+* [Telegram changelog](https://t.me/cedriclaboratory/977)
+* [Download](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-11.0-20220830-cedric-v7.21.zip/download)
+* [Download gapps](https://sourceforge.net/projects/sirrgb-roms/files/Cedric/CrDroid/crDroidAndroid-11.0-20220831-cedric-v7.21-GAPPS.zip/download)
 * built by me
-* thanks to @Megh for the Mirror
 
 Havoc OS 4.16
 -----
