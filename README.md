@@ -19,6 +19,10 @@ Lineage OS 18.1 MicroG
 -----
 * [Download](https://download.lineage.microg.org/cedric/)
 
+Mokee 110.1
+-----
+* [Download](https://download.mokeedev.com/cedric.html)
+
 Project Kasumi 1.4 PoPiPa
 -----
 * [Discord](https://discord.gg/FRYUFtWDc6)
